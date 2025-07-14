@@ -84,9 +84,7 @@ If you're interested in collaborating, discussing a project, or just saying hi:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ccaadaro&theme=dark&mode=weekly" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ccaadaro&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
