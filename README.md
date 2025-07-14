@@ -1,51 +1,93 @@
-# 👋 Hi there! I'm Carlos 
+<h1 align="center">👋 Hi there! I'm Carlos</h1>
 
-Welcome to my GitHub space. I'm a passionate researcher and developer working at the intersection of **machine learning**, **high-performance computing**, and **remote sensing**. Here you'll find a collection of my open-source projects, academic experiments, and personal explorations.
+<p align="center">
+  🌐 Researcher | 💻 Developer | ☁️ Cloud & HPC Enthusiast | 🤖 AI Explorer
+</p>
 
-## 🔬 About Me
+<p align="center">
+  <a href="mailto:ccrostro08@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/carlos-ca%C3%B1ada-rostro-883496179/">🌐 LinkedIn</a> •
+  <a href="#-github-stats">📊 GitHub Stats</a>
+</p>
 
-- 🎓 PhD candidate in Computer Science at Extremadura's University
-- 💻 Interested in Deep Learning, Hyperspectral Imaging, Distributed Systems, and Scientific Computing
-- 🛰️ Developing intelligent systems for environmental monitoring and geospatial analysis
-- ⚙️ Exploring efficient AI on CPU/GPU clusters, with and without Docker
-- 📚 Teaching university-level courses on Big Data, AI, and Bioinformatics
+---
 
-## 🛠️ Tools & Technologies
+## 🧠 About Me
 
-- Programming: `Python`, `C++`, `Bash`, `SQL`
-- Frameworks: `PyTorch`, `TensorFlow`, `scikit-learn`, `Spark`, `Hadoop`
-- Cloud & HPC: `AWS`, `Docker`, `Slurm`, `EMR`, `Kubernetes`
-- Data: `HSI`, `EO data`, `LiDAR`, `Parquet`, `NoSQL`, `PostGIS`
-- Dev: `Git`, `LaTeX`, `Jupyter`, `VS Code`
+I’m a passionate researcher and developer working at the intersection of **Machine Learning**, **High-Performance Computing**, and **Remote Sensing**.  
+Currently, I'm a **PhD candidate in Computer Science at the University of Extremadura (Spain)**.
+
+My work blends cutting-edge neural networks with scalable cloud/HPC systems for scientific and geospatial data applications.
+
+---
+
+## 🚀 Interests & Focus
+
+- 💡 **Deep Learning** (compression, generative models, RL)
+- 🌍 **Hyperspectral Imaging** and Earth Observation
+- ☁️ **Cloud Computing** with AWS, Spark, and EMR
+- ⚙️ **HPC & GPU Programming** (Triton, CUDA, Slurm)
+- 🧪 **Scientific Data Analysis** at scale
+
+---
+
+## 🛠️ Tech Stack
+
+| Category        | Tools & Technologies |
+|----------------|----------------------|
+| **Languages**  | `Python`, `C++`, `Bash`, `SQL` |
+| **ML/DL**      | `PyTorch`, `TensorFlow`, `scikit-learn` |
+| **Big Data**   | `Spark`, `Hadoop`, `Parquet`, `NoSQL` |
+| **Cloud & HPC**| `AWS`, `Docker`, `EMR`, `Slurm`, `Kubernetes` |
+| **Data**       | `HSI`, `LiDAR`, `EO Data`, `PostGIS` |
+| **Dev Tools**  | `Git`, `Jupyter`, `VS Code`, `LaTeX` |
+
+---
 
 ## 📌 Featured Projects
 
-- 🔍 `Hyperspectral Unmixing with Spark`: Distributed algorithm for large-scale unmixing in remote sensing data
-- 🤖 `PPO_GBRL`: Reinforcement learning with gradient-boosted trees for band selection
-- 🧠 `Compressed Deep Learning`: Quantization, pruning, and knowledge distillation for lightweight models
-- 📊 `Market Analytics`: Bayesian hierarchical modeling of mobile app market penetration
+- 🔍 **[Hyperspectral Unmixing with Spark](#)**  
+  Distributed unmixing for remote sensing data at scale.
 
-Explore my pinned repositories to learn more about each one.
+- 🤖 **[PPO_GBRL](#)**  
+  Policy optimization with gradient boosting for hyperspectral band selection.
 
-## 📄 Publications & Talks
+- 🧠 **[Compressed Deep Learning](#)**  
+  Quantization, pruning, and distillation techniques for efficient models.
 
-I've contributed to international conferences and book chapters on topics like:
+- 📊 **[Market Analytics](#)**  
+  Bayesian hierarchical modeling of mobile app adoption patterns.
 
-- Hyperspectral Image Analysis
-- Distributed Machine Learning
-- AI for Environmental Protection
-- GPU Programming with OpenAI Triton
+---
 
+## 📚 Publications & Talks
+
+I've contributed to international conferences and book chapters in areas such as:
+
+- 🛰️ Hyperspectral Image Analysis  
+- ⚙️ Distributed Machine Learning  
+- 🌿 AI for Environmental Protection  
+- 🧵 GPU Programming with OpenAI Triton
+
+📄 *Ask me for links or visit [ResearchGate](#) / [Google Scholar](#)*
+
+---
 
 ## 📬 Get in Touch
 
-Feel free to reach out if you want to collaborate, discuss a project, or just say hi!
+If you're interested in collaborating, discussing a project, or just saying hi:
 
-- 📧 Email: ccrostro08@gmail.com
-- 🌐 Linkedin: https://www.linkedin.com/in/carlos-ca%C3%B1ada-rostro-883496179/
+- 📧 **Email**: [ccrostro08@gmail.com](mailto:ccrostro08@gmail.com)  
+- 💼 **LinkedIn**: [Carlos Cañada Rostro](https://www.linkedin.com/in/carlos-ca%C3%B1ada-rostro-883496179/)
 
-## GitHub Stats
+---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ccaadaro&theme=dark&mode=weekly)](https://git.io/streak-stats)
+## 📊 GitHub Stats
 
-Thank you for stopping by! 🚀
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ccaadaro&theme=dark&mode=weekly" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">Thanks for visiting! 🙌</p>
